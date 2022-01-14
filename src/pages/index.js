@@ -1,3 +1,3 @@
 import GetStarted from './GetStarted';
-
-export {GetStarted};
+import Planet from './Planet';
+export {GetStarted,Planet};
